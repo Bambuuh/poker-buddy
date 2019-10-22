@@ -1,0 +1,3 @@
+import PASCAL_PLACEHOLDER from './PLACEHOLDER'
+
+export default PASCAL_PLACEHOLDER

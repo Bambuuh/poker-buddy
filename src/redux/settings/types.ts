@@ -1,0 +1,1 @@
+export const CLEAR_SETTINGS = 'CLEAR_SETTINGS'
